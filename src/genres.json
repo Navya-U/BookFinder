@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Arts",
+    "subgenres": ["Art Instruction", "Art History", "Painting"]
+  },
+  {
+    "id": 2,
+    "name": "Performing Arts",
+    "subgenres": ["Dance", "Film", "Music", "Music Theory"]
+  },
+  {
+    "id": 3,
+    "name": "Design & Fashion",
+    "subgenres": [
+      "Architecture",
+      "Design",
+      "Fashion",
+      "Graphic Design",
+      "Photography"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Fiction",
+    "subgenres": [
+      "Fantasy",
+      "Historical Fiction",
+      "Horror",
+      "Humor",
+      "Literature",
+      "Mystery and detective stories",
+      "Plays",
+      "Poetry",
+      "Romance",
+      "Science Fiction",
+      "Short Stories",
+      "Thriller",
+      "Young Adult"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Children's Literature",
+    "subgenres": [
+      "Kids Books",
+      "Stories in Rhyme",
+      "Baby Books",
+      "Bedtime Books",
+      "Picture Books"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Core Sciences",
+    "subgenres": ["Biology", "Chemistry", "Physics"]
+  },
+  {
+    "id": 7,
+    "name": "Applied Sciences",
+    "subgenres": ["Computer Science", "Programming"]
+  },
+  { "id": 8, "name": "Mathematics", "subgenres": ["Mathematics", "Algebra"] },
+
+  {
+    "id": 9,
+    "name": "Business",
+    "subgenres": [
+      "Management",
+      "Entrepreneurship",
+      "Business Economics",
+      "Business Success"
+    ]
+  },
+  { "id": 10, "name": "Finance", "subgenres": ["Finance"] },
+
+  {
+    "id": 11,
+    "name": "History",
+    "subgenres": [
+      "Ancient Civilization",
+      "Archaeology",
+      "World War II",
+      "Kings and Rulers"
+    ]
+  },
+  { "id": 12, "name": "Politics", "subgenres": ["Politics and Government"] },
+  {
+    "id": 13,
+    "name": "Biography & Autobiography",
+    "subgenres": ["Women", "Composers", "Artists", "Social Life and Customs"]
+  },
+  {
+    "id": 14,
+    "name": "Social Sciences",
+    "subgenres": ["Anthropology", "Religion", "Political Science", "Psychology"]
+  },
+
+  {
+    "id": 15,
+    "name": "Wellness",
+    "subgenres": ["Mental Health", "Exercise", "Nutrition", "Self-help"]
+  },
+  { "id": 16, "name": "Cooking", "subgenres": ["Cooking", "Cookbooks"] },
+
+  {
+    "id": 17,
+    "name": "General",
+    "subgenres": [
+      "Kids Books",
+      "Stories in Rhyme",
+      "Baby Books",
+      "Bedtime Books",
+      "Picture Books"
+    ]
+  },
+
+  {
+    "id": 18,
+    "name": "Core Subjects",
+    "subgenres": [
+      "History",
+      "Mathematics",
+      "Geography",
+      "Psychology",
+      "Chemistry",
+      "Physics"
+    ]
+  },
+  { "id": 19, "name": "Languages", "subgenres": ["English Language"] },
+  {
+    "id": 20,
+    "name": "Specialized Studies",
+    "subgenres": ["Business & Economics", "Computer Science", "Education"]
+  },
+
+  {
+    "id": 21,
+    "name": "Countries & Regions",
+    "subgenres": ["Brazil", "India", "Indonesia", "United States"]
+  }
+]
